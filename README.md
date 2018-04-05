@@ -29,7 +29,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea
 | The Art of Speaking |  | 全新with 光盘 |  | | 10 |  | 
 | Basic Algebra | Nathan Jacobson | 上册可能有一些微小笔记，下册全新 | 打印 | 个人更喜欢Hungerfold | 10 |  | 
 | Algebra I: Basic Notions of Algebra | A.I. Kostrikin I.R. Shafarevich | 全新 | 打印 | 被推荐了才打印的但是全无印象了 | 10 |  | 
-| Basic Topology | Armstrong | 5成新 | 打印 | 很多人的拓扑入门书 | 10 |  | 
+| Basic Topology | Armstrong | 5成新 | 打印 | 很多人的拓扑入门书 | 10 | XDJ | 
 | Le Nouveau : Exercises |  | 全新 | 打印 | 法语课标配但是我从没做过练习 | 5 |  | 
 | Topology | Munkres | 微小笔记 | 打印 | 李思老师拓扑课前半学期的教材，非常喜欢的拓扑教材 | 10 | LQH | 
 | Probability and Measure Theory | Robert B. Ash | 全新 | 打印 |  | 5 |  | 
