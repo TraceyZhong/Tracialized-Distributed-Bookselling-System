@@ -112,3 +112,7 @@
 | German Essential |  | 新 |  | |  | 已出 | 
 | 力学 习题与解答 | 舒幼生 | 新 |  | | 5 |  | 
 | 犹太人与犹太教 | 牛津通识读本 | 新 |  | | 10 | 已出 | 
+
+
+
+Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea!
