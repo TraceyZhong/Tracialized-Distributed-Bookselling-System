@@ -45,9 +45,9 @@ Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea
 | 集体智慧编程 | O'reilly | 二手书 |  | | 30 | 还想看看 | 
 | Basic Stochastic Processes |  | Zdzislaw | 影印 | 真的很basic but non-trivial | 10 |  | 
 | 数据库系统概论 学习指导与习题解 | 王珊 | 二手书 |  | | 5 |  | 
-| 数据库系统概念 | SiberschatzKorth | 二手书 | 影印 |  | 69 | 还想看看 |  | 
+| 数据库系统概念 | SiberschatzKorth | 二手书 | 影印 |  | 30 | 还想看看 |  | 
 | 自动机理论、语言、和计算导论 （英文） | Hopcroft | 二手书 | 影印 | 形式语言与自动机教材 | 20 | 还想看看 | 
-| 机器学习 | 周志华 | 微小笔记 |  | | 88 | 还没看完 | 
+| 机器学习 | 周志华 | 微小笔记 |  | | 35 | 还没看完 | 
 | 计算理论导引（中文） | Sipser | 新 |  | 计算理论课程教材 | 25 | LJW | 
 | Bayesian Data Analysis | Gelman | 新 | 影印 |  | 50 | 有缘还是想看的 | 
 | Mathematical Logic | Ebbinghaus | 新 | 打印 |  | 5 |  | 
