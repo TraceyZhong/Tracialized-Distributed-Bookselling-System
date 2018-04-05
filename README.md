@@ -1,7 +1,5 @@
 # Tracialized-Distributed-Bookselling-System
 
-Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea!
-
 ## 各种欢迎校内和隔壁同学，我送货上门啊～
 
 ## 请想要书的同学 pull request 把书对应行的状态改为你的名字的首字母缩写，并且 wechat to TraceyXYZ 你的 github 名。我们在微信上讨论何时何地传递书的问题～如果不想在github上搞也可以直接微信我我来修改
@@ -57,7 +55,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea
 | Matrix Analysis (2ed) | Roger A. Horn | 新 |  | | 30 | TRL  | 
 | 统计学习方法 | 李航  | 新 |  |  | 10 | 还想看看 |  
 | 统计推断（中文） | Casella | 有部分笔记 |  | 杨瑛老师统计推断课程教材，我觉得很经典！ | 30 | LJW | 
-| Options, Futures, and Other Derivatives （7ed） | John Hull | 新 | 影印 |  | 30 |  | 
+| Options, Futures, and Other Derivatives （7ed） | John Hull | 新 | 影印 |  | 30 | LQH | 
 | 数理统计学讲义（北大） | 陈家鼎 | 新 |  | 杨瑛老师数学系统计推断课程参考书 | 20 | 已出 | 
 | Probability (4ed) | Durrett | 新 | 打印 | 陈金文老师的概率论二和随机过程的参考书 | 10 |  | 
 | Numerical Analysis | Rainer Kress | 有微小笔记 | 打印 | 黄忠义老师数值分析课程教材 | 10 | LQH | 
