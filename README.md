@@ -1,5 +1,7 @@
 # Tracialized-Distributed-Bookselling-System
 
+Acknowledgments to [Fugoes](https://fugoes.github.io) for this fabulous idea! 
+
 ## 各种欢迎校内和隔壁同学，我送货上门啊～
 
 ## 请想要书的同学 pull request 把书对应行的状态改为你的名字的首字母缩写，并且 wechat to TraceyXYZ 你的 github 名。我们在微信上讨论何时何地传递书的问题～如果不想在github上搞也可以直接微信我我来修改
