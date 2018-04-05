@@ -64,7 +64,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea
 | Statistical Inference | Casella | 有部分笔记 | 打印 | 杨瑛老师统计推断课程教材，当然是英文版更经典！ | 10 |  | 
 | An Introduction to Algebraic Topology | Rotman | 有微小笔记 | 影印 | 李思老师拓扑课后半学期基础代数拓扑的参考用书。 | 20 |  | 
 | Applied Regression Analysisx |  | 有微笑笔记 | 打印 | 杨瑛老师线性回归教材 | 10 |  | 
-| 基础拓扑学讲义 | 尤承业 | 新 |  | concise 但是我更喜欢munkres | 10 |  | 
+| 基础拓扑学讲义 | 尤承业 | 新 |  | concise 但是我更喜欢munkres | 10 | ZJS | 
 | Introduction to Fourier Analysis on Euclidean Space | Elias M. Stein | Guido Weiss | 新 | 影印 | 20 | 
 | Mathematical Methods of Classical Mechanics | Arnold | 新 | 影印 | 卢文轩老师分析力学教材 | 40 |  | 
 | Fouriour Analysis | Stein | 新 | 影印 |  | 25 |  | 
@@ -73,7 +73,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea
 | Mathematical Analysis I and II | Zorich | 微小笔记 | 影印 | 卢老师数学分析重要教材！ | 64 |  | 
 | Introduction to Mechanics and Symmetry | Marsden | 微小笔记 | 影印 | 卢文轩老师分析力学教材 | 35 |  | 
 | Lecture Notes on Elementary Topology and Geometry | Singer | 新 | 影印 |  | 20 | LQH | 
-| Real Analysis | Royden | 部分笔记 | 影印 | 李宇翔老师测度与积分下半学期用书。看了很多遍的书！ | 20 |  | 
+| Real Analysis | Royden | 部分笔记 | 影印 | 李宇翔老师测度与积分下半学期用书。看了很多遍的书！ | 20 | ZJS | 
 | Probability and Measure Theory (3ed) | Billingsley | 新 | 影印 |  | 30 |  | 
 | 微分几何讲义 | 陈省身 | 新 |  | | 15 |  | 
 | General Theory of Relativity | P.A. M. Dirac | 新 | 影印 |  | 10 |  | 
