@@ -42,11 +42,11 @@ Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea
 | 数值分析基础（第二版） | 关冶 | 部分笔记 |  | 黄忠亿老师数值分析书教材 | 15 |  | 
 | GRE 核心词汇考法精析 |  | 不记得了 |  | | 20 |  | 
 | GRE 官方题库 范文精讲 | 新东方 | 二手书 |  | | 20 |  | 
-| 集体智慧编程 | O'reilly | 二手书 |  | | 79 | 还想看看 | 
+| 集体智慧编程 | O'reilly | 二手书 |  | | 30 | 还想看看 | 
 | Basic Stochastic Processes |  | Zdzislaw | 影印 | 真的很basic but non-trivial | 10 |  | 
 | 数据库系统概论 学习指导与习题解 | 王珊 | 二手书 |  | | 5 |  | 
 | 数据库系统概念 | SiberschatzKorth | 二手书 | 影印 |  | 69 | 还想看看 |  | 
-| 自动机理论、语言、和计算导论 （英文） | Hopcroft | 二手书 | 影印 | 形式语言与自动机教材 | 47 | 还想看看 | 
+| 自动机理论、语言、和计算导论 （英文） | Hopcroft | 二手书 | 影印 | 形式语言与自动机教材 | 20 | 还想看看 | 
 | 机器学习 | 周志华 | 微小笔记 |  | | 88 | 还没看完 | 
 | 计算理论导引（中文） | Sipser | 新 |  | 计算理论课程教材 | 25 | LJW | 
 | Bayesian Data Analysis | Gelman | 新 | 影印 |  | 50 | 有缘还是想看的 | 
@@ -56,7 +56,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea
 | Introduction to Algorithms |  | 新 | 打印 |  | 10 | 已出 | 
 | Matrix Analysis (2ed) | Roger A. Horn | 新 |  | | 30 | TRL  | 
 | 统计学习方法 | 李航  | 新 |  |  | 10 | 还想看看 |  
-| 统计推断（中文） | Casella | 有部分笔记 |  | 杨瑛老师统计推断课程教材，我觉得很经典！ | 66 | LJW | 
+| 统计推断（中文） | Casella | 有部分笔记 |  | 杨瑛老师统计推断课程教材，我觉得很经典！ | 30 | LJW | 
 | Options, Futures, and Other Derivatives （7ed） | John Hull | 新 | 影印 |  | 30 |  | 
 | 数理统计学讲义（北大） | 陈家鼎 | 新 |  | 杨瑛老师数学系统计推断课程参考书 | 20 | 已出 | 
 | Probability (4ed) | Durrett | 新 | 打印 | 陈金文老师的概率论二和随机过程的参考书 | 10 |  | 
