@@ -1,6 +1,8 @@
 # Tracialized-Distributed-Bookselling-System
 
-## 各种欢迎校内同学，我送货上门啊～
+Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea!
+
+## 各种欢迎校内和隔壁同学，我送货上门啊～
 
 ## 请想要书的同学 pull request 把书对应行的状态改为［已出］，并且 wechat to TraceyXYZ 你的 github 名。我们在微信上讨论何时何地传递书的问题～如果不想在github上搞也可以直接微信我我来修改
 
@@ -114,7 +116,3 @@
 | German Essential |  | 新 |  | |  | 已出 | 
 | 力学 习题与解答 | 舒幼生 | 新 |  | | 5 |  | 
 | 犹太人与犹太教 | 牛津通识读本 | 新 |  | | 10 | 已出 | 
-
-
-
-Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea!
