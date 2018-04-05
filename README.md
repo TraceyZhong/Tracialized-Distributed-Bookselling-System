@@ -67,37 +67,37 @@ Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea
 | 基础拓扑学讲义 | 尤承业 | 新 |  | concise 但是我更喜欢munkres | 10 | ZJS | 
 | Introduction to Fourier Analysis on Euclidean Space | Elias M. Stein | Guido Weiss | 新 | 影印 | 20 | 
 | Mathematical Methods of Classical Mechanics | Arnold | 新 | 影印 | 卢文轩老师分析力学教材 | 40 |  | 
-| Fouriour Analysis | Stein | 新 | 影印 |  | 25 |  | 
+| Fouriour Analysis | Stein | 新 | 影印 |  | 25 | 已出| 
 | Complex Analysis | Stein | 新 | 影印 |  | 25 |  | 
 | Real Analysis | Stein | 新 | 影印 |  | 25 |  | 
 | Mathematical Analysis I and II | Zorich | 微小笔记 | 影印 | 卢老师数学分析重要教材！ | 64 |  | 
 | Introduction to Mechanics and Symmetry | Marsden | 微小笔记 | 影印 | 卢文轩老师分析力学教材 | 35 |  | 
 | Lecture Notes on Elementary Topology and Geometry | Singer | 新 | 影印 |  | 20 | LQH | 
 | Real Analysis | Royden | 部分笔记 | 影印 | 李宇翔老师测度与积分下半学期用书。看了很多遍的书！ | 20 | ZJS | 
-| Probability and Measure Theory (3ed) | Billingsley | 新 | 影印 |  | 30 |  | 
+| Probability and Measure Theory (3ed) | Billingsley | 新 | 影印 |  | 30 | 已出 | 
 | 微分几何讲义 | 陈省身 | 新 |  | | 15 |  | 
 | General Theory of Relativity | P.A. M. Dirac | 新 | 影印 |  | 10 |  | 
 | A Course in Arithmic | Jean-Pierre Serre | 新 | 影印 |  | 19 |  | 
 | Linear Representations of Finite Groups | Jean-Pierre Serre | 新 | 影印 |  | 25 |  | 
 | 代数几何和算术曲线（英文） | 刘青 | 新 | 影印 |  | 40 |  | 
 | Algebra | Hungerford | 微小笔记 | 影印 | 翻了很多遍的代数教材。 | 25 |  | 
-| 实分析中的反例 | 汪林 | 新 |  | | 25 |  | 
+| 实分析中的反例 | 汪林 | 新 |  | | 25 | 已出| 
 | Real and Complex Analysis | Rudin | 新 | 影印 |  | 20 |  | 
 | 常微分方程教程(2 ed) | 丁同仁 | 新 |  | ODE教材 | 10 |  | 
 | 数据库系统概论 | 王珊 | 二手书 |  | | 10 |  | 
 | Introduction to Game Theory | Peter Morris | 微小笔记，郑邵远老师博弈论课时打印的 | 打印 |  | 5 | XDJ | 
 | 应用随机过程 | 林元烈 | 不太记得了 |  | 应用随机过程课程教材 | 15 |  | 
 | 测度论讲义 | 严加安 | 新 |  | | 12 |  | 
-| Linear and Nonlinear Programming (3ed) | Yingyu Ye | 微小笔记 | 打印 | 数学规划课程教材 | 10 |  | 
+| Linear and Nonlinear Programming (3ed) | Yingyu Ye | 微小笔记 | 打印 | 数学规划课程教材 | 10 | 已出| 
 | 论语译注 | 杨伯峻 | 充满笔记 |  | | 5 |  | 
 | Applied Regression Analysis | Norman Drapper | 微小笔记 | 打印 | 杨瑛老师线性回归教材 | 10 |  | 
-| The Bayesian Choice | Christian Robert | 新 | 打印 |  | 10 |  | 
+| The Bayesian Choice | Christian Robert | 新 | 打印 |  | 10 |已出| 
 | 实用多元统计分析（英语）6ed | Richard Johnson | 微小笔记 |  | 侯琳老师多元统计分析教材 | 35 |  | 
 | 法语语法渐进初级（法） | 上海译文出版社 | 大概是做了一点吧 |  | | 10 |  | 
 | 数据结构与算法分析cpp（英） | Mark Alien Weiss | 新 |  | | 30 |  | 
 | 法语词汇渐进初级（法） | 上海译文出版社 | 大概还是做了一点 |  | | 10 |  | 
 | 简明拉丁语教程 | Leopold | 部分笔记 |  | 拉丁语课程教材 | 15 |  | 
-| Time Series: Theory and Methods | Brockwell | 新 |  | 李东老师时间序列分析参考书 | 40 |  | 
+| Time Series: Theory and Methods | Brockwell | 新 |  | 李东老师时间序列分析参考书 | 40 |已出 | 
 | GRE 词汇精选（绿） | 俞敏洪 | 二手书 |  | | 10 |  |
 | GRE 词汇精选（红） | 俞敏洪 | 新 |  | | 10 |  | 
 | TOEFL 词组 | 新东方 | 做了个位数页 |  | | 5 |  | 
@@ -108,7 +108,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea
 | 数学分析讲义（第三章至第十八章） | 卢旭光老师 | 部分笔记 |  | 卢老师课程讲义集合 | 0 |  | 
 | Linear Algebra Done Right | Sheldon Axler | 有笔记 | 打印 |  | 10 |  | 
 | 听音乐：音乐欣赏教程 |  | 微小笔记 |  | | 20 | 已出 |     
-| 拯救我的GRE写作：issue | 姜伟生 | 新 |  | | 25 |  | 
+| 拯救我的GRE写作：issue | 姜伟生 | 新 |  | | 25 | 已出| 
 | 托福官方指南 | ETS | 比较老了 |  | | 0 |  | 
 | 托福词汇听抄泛读练习 |  | 不知道哪来的 | 打印 |  | 0 |  | 
 | 托福词汇手册下 |  | 不知道哪来的的 | 打印 |  | 0 |  | 
