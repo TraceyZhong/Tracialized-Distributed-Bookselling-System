@@ -18,7 +18,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea
 | Collins pocket German Dictionary |  | 新 | 正版 |  | 10 | 已出 | 
 | 实变函数解题指南 | 周民强 | 有一些微小的笔记 |  | | 15 |  | 
 | 数学分析讲义 第一，二，三册 | 陈天权 | 新 |  | 很有名的数分书 | 40 |  | 
-| Comples Analysis | Ahlfors | 有一些微小的笔记，但毕竟是周sir的课，所以并没有什么时间是用到书的 | 打印 | 周坚老师复分析课的教材，所以打印了，个人比较喜欢 | 10 |  | 
+| Complexs Analysis | Ahlfors | 有一些微小的笔记，但毕竟是周sir的课，所以并没有什么时间是用到书的 | 打印 | 周坚老师复分析课的教材，所以打印了，个人比较喜欢 | 10 | LQH | 
 | 高等代数习题解 | 杨子胥 | 新 |  | | 10 |  | 
 | 数学分析解题指南（北大版） | 林源渠 | 新 |  | | 12 |  | 
 | 实变函数论 | 周民强 | 微小笔记 |  | 李宇翔老师测度与积分课前半学期的教材 | 15 |  | 
@@ -31,7 +31,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea
 | Algebra I: Basic Notions of Algebra | A.I. Kostrikin I.R. Shafarevich | 全新 | 打印 | 被推荐了才打印的但是全无印象了 | 10 |  | 
 | Basic Topology | Armstrong | 5成新 | 打印 | 很多人的拓扑入门书 | 10 |  | 
 | Le Nouveau : Exercises |  | 全新 | 打印 | 法语课标配但是我从没做过练习 | 5 |  | 
-| Topology | Munkres | 微小笔记 | 打印 | 李思老师拓扑课前半学期的教材，非常喜欢的拓扑教材 | 10 |  | 
+| Topology | Munkres | 微小笔记 | 打印 | 李思老师拓扑课前半学期的教材，非常喜欢的拓扑教材 | 10 | LQH | 
 | Probability and Measure Theory | Robert B. Ash | 全新 | 打印 |  | 5 |  | 
 | A Concise Course in Algebraic Topology | J. P. May | 大概前20页把may的一些typo标出来了 | 打印 | 李思老师在讲一些basic category theory 的时候refer了这note的内容，有个蛮厉害的人曾经也蛮喜欢这个note的。问题是他真的很多typo，入门被记号纠结到爆炸 | 10 |  | 
 | 力学 | 舒幼生 | 我觉得我从来没看过 |  | | 10 |  | 
@@ -60,7 +60,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea
 | Options, Futures, and Other Derivatives （7ed） | John Hull | 新 | 影印 |  | 30 |  | 
 | 数理统计学讲义（北大） | 陈家鼎 | 新 |  | 杨瑛老师数学系统计推断课程参考书 | 20 | 已出 | 
 | Probability (4ed) | Durrett | 新 | 打印 | 陈金文老师的概率论二和随机过程的参考书 | 10 |  | 
-| Numerical Analysis | Rainer Kress | 有微小笔记 | 打印 | 黄忠义老师数值分析课程教材 | 10 |  | 
+| Numerical Analysis | Rainer Kress | 有微小笔记 | 打印 | 黄忠义老师数值分析课程教材 | 10 | LQH | 
 | Statistical Inference | Casella | 有部分笔记 | 打印 | 杨瑛老师统计推断课程教材，当然是英文版更经典！ | 10 |  | 
 | An Introduction to Algebraic Topology | Rotman | 有微小笔记 | 影印 | 李思老师拓扑课后半学期基础代数拓扑的参考用书。 | 20 |  | 
 | Applied Regression Analysisx |  | 有微笑笔记 | 打印 | 杨瑛老师线性回归教材 | 10 |  | 
@@ -72,7 +72,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea
 | Real Analysis | Stein | 新 | 影印 |  | 25 |  | 
 | Mathematical Analysis I and II | Zorich | 微小笔记 | 影印 | 卢老师数学分析重要教材！ | 64 |  | 
 | Introduction to Mechanics and Symmetry | Marsden | 微小笔记 | 影印 | 卢文轩老师分析力学教材 | 35 |  | 
-| Lecture Notes on Elementary Topology and Geometry | Singer | 新 | 影印 |  | 20 |  | 
+| Lecture Notes on Elementary Topology and Geometry | Singer | 新 | 影印 |  | 20 | LQH | 
 | Real Analysis | Royden | 部分笔记 | 影印 | 李宇翔老师测度与积分下半学期用书。看了很多遍的书！ | 20 |  | 
 | Probability and Measure Theory (3ed) | Billingsley | 新 | 影印 |  | 30 |  | 
 | 微分几何讲义 | 陈省身 | 新 |  | | 15 |  | 
@@ -85,7 +85,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea
 | Real and Complex Analysis | Rudin | 新 | 影印 |  | 20 |  | 
 | 常微分方程教程(2 ed) | 丁同仁 | 新 |  | ODE教材 | 10 |  | 
 | 数据库系统概论 | 王珊 | 二手书 |  | | 10 |  | 
-| Introduction to Game Theory | Peter Morris | 微小笔记，郑邵远老师博弈论课时打印的 | 打印 |  | 5 |  | 
+| Introduction to Game Theory | Peter Morris | 微小笔记，郑邵远老师博弈论课时打印的 | 打印 |  | 5 | XDJ | 
 | 应用随机过程 | 林元烈 | 不太记得了 |  | 应用随机过程课程教材 | 15 |  | 
 | 测度论讲义 | 严加安 | 新 |  | | 12 |  | 
 | Linear and Nonlinear Programming (3ed) | Yingyu Ye | 微小笔记 | 打印 | 数学规划课程教材 | 10 |  | 
