@@ -1,6 +1,6 @@
 # Tracialized-Distributed-Bookselling-System
 
-## 请想要书的同学 pull request 把书对应行的状态改为已出，并且 wechat to TraceyXYZ 你的 github 名。我们在微信上讨论何时何地传递书的问题～如果不想在github上搞也可以直接微信我我来修改
+## 请想要书的同学 pull request 把书对应行的状态改为［已出］，并且 wechat to TraceyXYZ 你的 github 名。我们在微信上讨论何时何地传递书的问题～如果不想在github上搞也可以直接微信我我来修改
 
 ## 所有书都是五折及以下，自己打印的都是10RMB，除了比较薄的是5RMB
 
