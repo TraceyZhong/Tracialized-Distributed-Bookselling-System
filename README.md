@@ -35,7 +35,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea
 | Probability and Measure Theory | Robert B. Ash | 全新 | 打印 |  | 5 |  | 
 | A Concise Course in Algebraic Topology | J. P. May | 大概前20页把may的一些typo标出来了 | 打印 | 李思老师在讲一些basic category theory 的时候refer了这note的内容，有个蛮厉害的人曾经也蛮喜欢这个note的。问题是他真的很多typo，入门被记号纠结到爆炸 | 10 |  | 
 | 力学 | 舒幼生 | 我觉得我从来没看过 |  | | 10 |  | 
-| 数理逻辑 | 汪芳庭 | 我觉得我从来没看过 |  | | 5 |  | 
+| 数理逻辑 | 汪芳庭 | 我觉得我从来没看过 |  | | 5 | TRL | 
 | 实变函数论 | 徐森林 | 微小笔记 |  | 卢老师数学分析课refer过的 | 14 |  | 
 | 基督教神学（中/英） | 牛津通识 |  | |  | 10 | 已出 | 
 | 经济学原理以及学习指南（第六版） | 曼昆 |  | |  | 50 | 已出 | 
@@ -54,7 +54,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea
 | 数理逻辑与集合论（清华计算机系教材）第二版 |  | 新 |  | | 15 |  | |  | 
 | Mathematical Logic | Ian Chiswell | 新 | 打印 |  | 5 |  | 
 | Introduction to Algorithms |  | 新 | 打印 |  | 10 | 已出 | 
-| Matrix Analysis (2ed) | Roger A. Horn | 新 |  | | 30 |  | 
+| Matrix Analysis (2ed) | Roger A. Horn | 新 |  | | 30 | TRL  | 
 | 统计学习方法 | 李航  | 新 |  |  | 10 | 还想看看 |  
 | 统计推断（中文） | Casella | 有部分笔记 |  | 杨瑛老师统计推断课程教材，我觉得很经典！ | 66 |  | 
 | Options, Futures, and Other Derivatives （7ed） | John Hull | 新 | 影印 |  | 30 |  | 
