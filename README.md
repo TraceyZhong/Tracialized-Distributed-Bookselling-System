@@ -4,7 +4,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea
 
 ## 各种欢迎校内和隔壁同学，我送货上门啊～
 
-## 请想要书的同学 pull request 把书对应行的状态改为［已出］，并且 wechat to TraceyXYZ 你的 github 名。我们在微信上讨论何时何地传递书的问题～如果不想在github上搞也可以直接微信我我来修改
+## 请想要书的同学 pull request 把书对应行的状态改为［已出］or anything indicators for your identity，并且 wechat to TraceyXYZ 你的 github 名。我们在微信上讨论何时何地传递书的问题～如果不想在github上搞也可以直接微信我我来修改
 
 ## 所有书都是五折及以下，自己打印的都是10RMB，除了比较薄的是5RMB
 
@@ -51,7 +51,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io/) for this interesting idea
 | 计算理论导引（中文） | Sipser | 新 |  | 计算理论课程教材 | 25 |  | 
 | Bayesian Data Analysis | Gelman | 新 | 影印 |  | 50 | 有缘还是想看的 | 
 | Mathematical Logic | Ebbinghaus | 新 | 打印 |  | 5 |  | 
-| 数理逻辑与集合论（清华计算机系教材）第二版 |  | 新 |  | | 15 |  | |  | 
+| 数理逻辑与集合论（清华计算机系教材）第二版 |  | 新 |  | | 15 | TRL | 
 | Mathematical Logic | Ian Chiswell | 新 | 打印 |  | 5 |  | 
 | Introduction to Algorithms |  | 新 | 打印 |  | 10 | 已出 | 
 | Matrix Analysis (2ed) | Roger A. Horn | 新 |  | | 30 | TRL  | 
