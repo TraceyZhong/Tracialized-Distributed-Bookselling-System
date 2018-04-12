@@ -15,7 +15,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io) for this fabulous idea!
 | 文学理论入门（中英对照） | 牛津通识读本 | 新 |  | | 10 | 已出 | 
 | 牛津哲学辞典 | 上外出版社 | 新 |  | | 10 | 已出 | 
 | GRE巴郎词表 |  | 铅笔做完所有的题 |  | | 10 |  | 
-| Collins pocket German Dictionary |  | 新 | 正版 |  | 10 | 已出 | 
+| Collins pocket German Dictionary |  | 新 | 正版 |  | 10 | BMZ | 
 | 实变函数解题指南 | 周民强 | 有一些微小的笔记 |  | | 15 |  | 
 | 数学分析讲义 第一，二，三册 | 陈天权 | 新 |  | 很有名的数分书 | 40 |  | 
 | Complexs Analysis | Ahlfors | 有一些微小的笔记，但毕竟是周sir的课，所以并没有什么时间是用到书的 | 打印 | 周坚老师复分析课的教材，所以打印了，个人比较喜欢 | 10 | LQH | 
@@ -38,7 +38,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io) for this fabulous idea!
 | 数理逻辑 | 汪芳庭 | 我觉得我从来没看过 |  | | 5 | TRL | 
 | 实变函数论 | 徐森林 | 微小笔记 |  | 卢老师数学分析课refer过的 | 14 |  | 
 | 基督教神学（中/英） | 牛津通识 |  | |  | 10 | 已出 | 
-| 经济学原理以及学习指南（第六版） | 曼昆 |  | |  | 50 | 已出 | 
+| 经济学原理以及学习指南（第六版） | 曼昆 |  | |  | 50 | BMZ | 
 | 数值分析基础（第二版） | 关冶 | 部分笔记 |  | 黄忠亿老师数值分析书教材 | 15 |  | 
 | GRE 核心词汇考法精析 |  | 不记得了 |  | | 20 |  | 
 | GRE 官方题库 范文精讲 | 新东方 | 二手书 |  | | 20 |  | 
@@ -58,7 +58,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io) for this fabulous idea!
 | 统计学习方法 | 李航  | 新 |  |  | 10 | 还想看看 |  
 | 统计推断（中文） | Casella | 有部分笔记 |  | 杨瑛老师统计推断课程教材，我觉得很经典！ | 30 | LJW | 
 | Options, Futures, and Other Derivatives （7ed） | John Hull | 新 | 影印 |  | 30 | LQH | 
-| 数理统计学讲义（北大） | 陈家鼎 | 新 |  | 杨瑛老师数学系统计推断课程参考书 | 20 | 已出 | 
+| 数理统计学讲义（北大） | 陈家鼎 | 新 |  | 杨瑛老师数学系统计推断课程参考书 | 20 | BMZ | 
 | Probability (4ed) | Durrett | 新 | 打印 | 陈金文老师的概率论二和随机过程的参考书 | 10 |  | 
 | Numerical Analysis | Rainer Kress | 有微小笔记 | 打印 | 黄忠义老师数值分析课程教材 | 10 | LQH | 
 | Statistical Inference | Casella | 有部分笔记 | 打印 | 杨瑛老师统计推断课程教材，当然是英文版更经典！ | 10 |  | 
@@ -112,7 +112,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io) for this fabulous idea!
 | 托福官方指南 | ETS | 比较老了 |  | | 0 |  | 
 | 托福词汇听抄泛读练习 |  | 不知道哪来的 | 打印 |  | 0 |  | 
 | 托福词汇手册下 |  | 不知道哪来的的 | 打印 |  | 0 |  | 
-| DEUTSCH als Fremdsprache |  | 新 |  | |  | 已出 | 
-| German Essential |  | 新 |  | |  | 已出 | 
+| DEUTSCH als Fremdsprache |  | 新 |  | |  | BMZ | 
+| German Essential |  | 新 |  | |  | BMZ | 
 | 力学 习题与解答 | 舒幼生 | 新 |  | | 5 |  | 
 | 犹太人与犹太教 | 牛津通识读本 | 新 |  | | 10 | 已出 | 
