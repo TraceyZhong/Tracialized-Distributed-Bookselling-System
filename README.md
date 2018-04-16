@@ -43,14 +43,12 @@ Acknowledgments to [Fugoes](https://fugoes.github.io) for this fabulous idea!
 | Mathematical Logic | Ebbinghaus | 新 | 打印 |  | 5 |  | 
 | 数理逻辑与集合论（清华计算机系教材）第二版 |  | 新 |  | | 15 | TRL | 
 | Mathematical Logic | Ian Chiswell | 新 | 打印 |  | 5 |  | 
-| Introduction to Algorithms |  | 新 | 打印 |  | 10 | 已出 | 
 | Matrix Analysis (2ed) | Roger A. Horn | 新 |  | | 30 | TRL  | 
 | 统计学习方法 | 李航  | 新 |  |  | 10 | 还想看看 |  
 | Probability (4ed) | Durrett | 新 | 打印 | 陈金文老师的概率论二和随机过程的参考书 | 10 |  | 
 | Statistical Inference | Casella | 有部分笔记 | 打印 | 杨瑛老师统计推断课程教材，当然是英文版更经典！ | 10 |  | 
 | An Introduction to Algebraic Topology | Rotman | 有微小笔记 | 影印 | 李思老师拓扑课后半学期基础代数拓扑的参考用书。 | 20 |  | 
 | Applied Regression Analysisx |  | 有微笑笔记 | 打印 | 杨瑛老师线性回归教材 | 10 |  | 
-| 基础拓扑学讲义 | 尤承业 | 新 |  | concise 但是我更喜欢munkres | 10 | 已出 | 
 | Introduction to Fourier Analysis on Euclidean Space | Elias M. Stein  Guido Weiss | 新 | 影印 | 20 | |
 | Mathematical Methods of Classical Mechanics | Arnold | 新 | 影印 | 卢文轩老师分析力学教材 | 40 |  | 
 | Complex Analysis | Stein | 新 | 影印 |  | 25 |  | 
