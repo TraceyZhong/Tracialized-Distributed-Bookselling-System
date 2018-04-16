@@ -15,7 +15,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io) for this fabulous idea!
 | 文学理论入门（中英对照） | 牛津通识读本 | 新 |  | | 10 | 已出 | 
 | 牛津哲学辞典 | 上外出版社 | 新 |  | | 10 | 已出 | 
 | GRE巴郎词表 |  | 铅笔做完所有的题 |  | | 10 |  | 
-| Collins pocket German Dictionary |  | 新 | 正版 |  | 10 | BMZ | 
+| Collins pocket German Dictionary |  | 新 | 正版 |  | 10 | 已出 | 
 | 实变函数解题指南 | 周民强 | 有一些微小的笔记 |  | | 15 |  | 
 | 数学分析讲义 第一，二，三册 | 陈天权 | 新 |  | 很有名的数分书 | 40 |  | 
 | Complexs Analysis | Ahlfors | 有一些微小的笔记，但毕竟是周sir的课，所以并没有什么时间是用到书的 | 打印 | 周坚老师复分析课的教材，所以打印了，个人比较喜欢 | 10 | LQH | 
@@ -31,7 +31,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io) for this fabulous idea!
 | Algebra I: Basic Notions of Algebra | A.I. Kostrikin I.R. Shafarevich | 全新 | 打印 | 被推荐了才打印的但是全无印象了 | 10 |  | 
 | Basic Topology | Armstrong | 5成新 | 打印 | 很多人的拓扑入门书 | 10 | XDJ | 
 | Le Nouveau : Exercises |  | 全新 | 打印 | 法语课标配但是我从没做过练习 | 5 |  | 
-| Topology | Munkres | 微小笔记 | 打印 | 李思老师拓扑课前半学期的教材，非常喜欢的拓扑教材 | 10 | LQH | 
+| Topology | Munkres | 微小笔记 | 打印 | 李思老师拓扑课前半学期的教材，非常喜欢的拓扑教材 | 10 | 已出 | 
 | Probability and Measure Theory | Robert B. Ash | 全新 | 打印 |  | 5 |  | 
 | A Concise Course in Algebraic Topology | J. P. May | 大概前20页把may的一些typo标出来了 | 打印 | 李思老师在讲一些basic category theory 的时候refer了这note的内容，有个蛮厉害的人曾经也蛮喜欢这个note的。问题是他真的很多typo，入门被记号纠结到爆炸 | 10 |  | 
 | 力学 | 舒幼生 | 我觉得我从来没看过 |  | | 10 |  | 
@@ -57,10 +57,10 @@ Acknowledgments to [Fugoes](https://fugoes.github.io) for this fabulous idea!
 | Matrix Analysis (2ed) | Roger A. Horn | 新 |  | | 30 | TRL  | 
 | 统计学习方法 | 李航  | 新 |  |  | 10 | 还想看看 |  
 | 统计推断（中文） | Casella | 有部分笔记 |  | 杨瑛老师统计推断课程教材，我觉得很经典！ | 30 | 已出 | 
-| Options, Futures, and Other Derivatives （7ed） | John Hull | 新 | 影印 |  | 30 | LQH | 
-| 数理统计学讲义（北大） | 陈家鼎 | 新 |  | 杨瑛老师数学系统计推断课程参考书 | 20 | BMZ | 
+| Options, Futures, and Other Derivatives （7ed） | John Hull | 新 | 影印 |  | 30 | 已出 | 
+| 数理统计学讲义（北大） | 陈家鼎 | 新 |  | 杨瑛老师数学系统计推断课程参考书 | 20 | 已出 | 
 | Probability (4ed) | Durrett | 新 | 打印 | 陈金文老师的概率论二和随机过程的参考书 | 10 |  | 
-| Numerical Analysis | Rainer Kress | 有微小笔记 | 打印 | 黄忠义老师数值分析课程教材 | 10 | LQH | 
+| Numerical Analysis | Rainer Kress | 有微小笔记 | 打印 | 黄忠义老师数值分析课程教材 | 10 | 已出 | 
 | Statistical Inference | Casella | 有部分笔记 | 打印 | 杨瑛老师统计推断课程教材，当然是英文版更经典！ | 10 |  | 
 | An Introduction to Algebraic Topology | Rotman | 有微小笔记 | 影印 | 李思老师拓扑课后半学期基础代数拓扑的参考用书。 | 20 |  | 
 | Applied Regression Analysisx |  | 有微笑笔记 | 打印 | 杨瑛老师线性回归教材 | 10 |  | 
