@@ -38,12 +38,10 @@ Acknowledgments to [Fugoes](https://fugoes.github.io) for this fabulous idea!
 | 数据库系统概论 学习指导与习题解 | 王珊 | 二手书 |  | | 5 |  | 
 | 数据库系统概念 | SiberschatzKorth | 二手书 | 影印 |  | 30 | 还想看看 |  | 
 | 自动机理论、语言、和计算导论 （英文） | Hopcroft | 二手书 | 影印 | 形式语言与自动机教材 | 20 | 还想看看 | 
-| 机器学习 | 周志华 | 微小笔记 |  | | 35 | 还没看完 | 
+| 机器学习 | 周志华 | 微小笔记 |  | | 35 | 还没看完（YSY） | 
 | Bayesian Data Analysis | Gelman | 新 | 影印 |  | 50 | 有缘还是想看的 | 
 | Mathematical Logic | Ebbinghaus | 新 | 打印 |  | 5 |  | 
-| 数理逻辑与集合论（清华计算机系教材）第二版 |  | 新 |  | | 15 | TRL | 
 | Mathematical Logic | Ian Chiswell | 新 | 打印 |  | 5 |  | 
-| Matrix Analysis (2ed) | Roger A. Horn | 新 |  | | 30 | TRL  | 
 | 统计学习方法 | 李航  | 新 |  |  | 10 | 还想看看 |  
 | Probability (4ed) | Durrett | 新 | 打印 | 陈金文老师的概率论二和随机过程的参考书 | 10 |  | 
 | Statistical Inference | Casella | 有部分笔记 | 打印 | 杨瑛老师统计推断课程教材，当然是英文版更经典！ | 10 |  | 
