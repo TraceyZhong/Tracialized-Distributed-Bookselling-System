@@ -62,7 +62,6 @@ Acknowledgments to [Fugoes](https://fugoes.github.io) for this fabulous idea!
 | 应用随机过程 | 林元烈 | 不太记得了 |  | 应用随机过程课程教材 | 15 |  | 
 | 测度论讲义 | 严加安 | 新 |  | | 12 |  | 
 | 论语译注 | 杨伯峻 | 充满笔记 |  | | 5 |  | 
-| Applied Regression Analysis | Norman Drapper | 微小笔记 | 打印 | 杨瑛老师线性回归教材 | 10 |  | 
 | 法语语法渐进初级（法） | 上海译文出版社 | 大概是做了一点吧 |  | | 10 |  | 
 | 数据结构与算法分析cpp（英） | Mark Alien Weiss | 新 |  | | 30 |  | 
 | 法语词汇渐进初级（法） | 上海译文出版社 | 大概还是做了一点 |  | | 10 |  | 
