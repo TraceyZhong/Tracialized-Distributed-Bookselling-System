@@ -71,7 +71,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io) for this fabulous idea!
 | 法语语法渐进初级（法） | 上海译文出版社 | 大概是做了一点吧 |  | | 10 |  | 
 | 数据结构与算法分析cpp（英） | Mark Alien Weiss | 新 |  | | 30 |  | 
 | 法语词汇渐进初级（法） | 上海译文出版社 | 大概还是做了一点 |  | | 10 |  | 
-| 简明拉丁语教程 | Leopold | 部分笔记 |  | 拉丁语课程教材 | 15 |  | 
+| 简明拉丁语教程 | Leopold | 部分笔记 |  | 拉丁语课程教材 | 15 | YWJ | 
 | GRE 词汇精选（绿） | 俞敏洪 | 二手书 |  | | 10 |  |
 | GRE 词汇精选（红） | 俞敏洪 | 新 |  | | 10 |  | 
 | TOEFL 词组 | 新东方 | 做了个位数页 |  | | 5 |  | 
