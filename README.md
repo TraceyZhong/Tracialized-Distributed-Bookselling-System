@@ -43,18 +43,14 @@ Acknowledgments to [Fugoes](https://fugoes.github.io) for this fabulous idea!
 | Mathematical Logic | Ebbinghaus | 新 | 打印 |  | 5 |  | 
 | Mathematical Logic | Ian Chiswell | 新 | 打印 |  | 5 |  | 
 | 统计学习方法 | 李航  | 新 |  |  | 10 | 还想看看（HW） |  
-| Probability (4ed) | Durrett | 新 | 打印 | 陈金文老师的概率论二和随机过程的参考书 | 10 |  | 
-| Statistical Inference | Casella | 有部分笔记 | 打印 | 杨瑛老师统计推断课程教材，当然是英文版更经典！ | 10 |  | 
+| Probability (4ed) | Durrett | 新 | 打印 | 陈金文老师的概率论二和随机过程的参考书 | 10 |  |  
 | An Introduction to Algebraic Topology | Rotman | 有微小笔记 | 影印 | 李思老师拓扑课后半学期基础代数拓扑的参考用书。 | 20 |  | 
-| Applied Regression Analysisx |  | 有微笑笔记 | 打印 | 杨瑛老师线性回归教材 | 10 |  | 
 | Introduction to Fourier Analysis on Euclidean Space | Elias M. Stein  Guido Weiss | 新 | 影印 | 20 | |
 | Mathematical Methods of Classical Mechanics | Arnold | 新 | 影印 | 卢文轩老师分析力学教材 | 40 |  | 
 | Complex Analysis | Stein | 新 | 影印 |  | 25 |  | 
 | Real Analysis | Stein | 新 | 影印 |  | 25 |  | 
 | Mathematical Analysis I and II | Zorich | 微小笔记 | 影印 | 卢老师数学分析重要教材！ | 64 |  | 
-| Introduction to Mechanics and Symmetry | Marsden | 微小笔记 | 影印 | 卢文轩老师分析力学教材 | 35 |  | 
-| 微分几何讲义 | 陈省身 | 新 |  | | 15 |  | 
-| 微分几何讲义 | 陈省身 | 新 |  | | 15 |  | 
+| Introduction to Mechanics and Symmetry | Marsden | 微小笔记 | 影印 | 卢文轩老师分析力学教材 | 35 | MJX | 
 | General Theory of Relativity | P.A. M. Dirac | 新 | 影印 |  | 10 |  | 
 | A Course in Arithmic | Jean-Pierre Serre | 新 | 影印 |  | 19 |  | 
 | Linear Representations of Finite Groups | Jean-Pierre Serre | 新 | 影印 |  | 25 |  | 
@@ -71,7 +67,6 @@ Acknowledgments to [Fugoes](https://fugoes.github.io) for this fabulous idea!
 | 法语语法渐进初级（法） | 上海译文出版社 | 大概是做了一点吧 |  | | 10 |  | 
 | 数据结构与算法分析cpp（英） | Mark Alien Weiss | 新 |  | | 30 |  | 
 | 法语词汇渐进初级（法） | 上海译文出版社 | 大概还是做了一点 |  | | 10 |  | 
-| 简明拉丁语教程 | Leopold | 部分笔记 |  | 拉丁语课程教材 | 15 | YWJ | 
 | GRE 词汇精选（绿） | 俞敏洪 | 二手书 |  | | 10 |  |
 | GRE 词汇精选（红） | 俞敏洪 | 新 |  | | 10 |  | 
 | TOEFL 词组 | 新东方 | 做了个位数页 |  | | 5 |  | 
