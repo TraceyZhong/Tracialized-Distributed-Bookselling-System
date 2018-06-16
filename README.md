@@ -42,7 +42,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io) for this fabulous idea!
 | Bayesian Data Analysis | Gelman | 新 | 影印 |  | 50 | 有缘还是想看的 | 
 | Mathematical Logic | Ebbinghaus | 新 | 打印 |  | 5 |  | 
 | Mathematical Logic | Ian Chiswell | 新 | 打印 |  | 5 |  | 
-| 统计学习方法 | 李航  | 新 |  |  | 10 | 还想看看 |  
+| 统计学习方法 | 李航  | 新 |  |  | 10 | 还想看看（HW） |  
 | Probability (4ed) | Durrett | 新 | 打印 | 陈金文老师的概率论二和随机过程的参考书 | 10 |  | 
 | Statistical Inference | Casella | 有部分笔记 | 打印 | 杨瑛老师统计推断课程教材，当然是英文版更经典！ | 10 |  | 
 | An Introduction to Algebraic Topology | Rotman | 有微小笔记 | 影印 | 李思老师拓扑课后半学期基础代数拓扑的参考用书。 | 20 |  | 
