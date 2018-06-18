@@ -71,7 +71,7 @@ Acknowledgments to [Fugoes](https://fugoes.github.io) for this fabulous idea!
 | GRE 阅读36套解析——文章结构分析 | 新东方 | 新 |  | | 25 |  | 
 | GRE&GMAT 阅读难句教程 | 新东方 | 新 |  | | 20 |  | 
 | GRE 阅读高分教程指导与精炼 | 新东方 | 新 |  | | 20 |  | 
-| GRE 核心词汇助记与精炼 | 新东方 | 部分笔记（部分单词我搞了一点词源 |  | | 55 |  | 
+| GRE 核心词汇助记与精炼 | 新东方 | 部分笔记（部分单词我搞了一点词源 |  | | 20 |  | 
 | 数学分析讲义（第三章至第十八章） | 卢旭光老师 | 部分笔记 |  | 卢老师课程讲义集合 | 0 |  | 
 | Linear Algebra Done Right | Sheldon Axler | 有笔记 | 打印 |  | 10 |  | 
 | 托福官方指南 | ETS | 比较老了 |  | | 0 |  | 
