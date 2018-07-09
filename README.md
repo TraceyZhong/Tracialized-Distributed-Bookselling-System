@@ -12,7 +12,6 @@ Acknowledgments to [Fugoes](https://fugoes.github.io) for this fabulous idea!
 
 | 书名 | 作者 | 新旧程度 | 备注（正版/影印/打印） | 简介 | 价格 | 状态 |
 |------|-----|----------|------------|-----|------|------|
-| GRE巴郎词表 |  | 铅笔做完所有的题 |  | | 10 |SnowOnion  | 
 | 实变函数解题指南 | 周民强 | 有一些微小的笔记 |  | | 15 |  | 
 | 数学分析讲义 第一，二，三册 | 陈天权 | 新 |  | 很有名的数分书 | 40 |  | 
 | 高等代数习题解 | 杨子胥 | 新 |  | | 10 |  | 
@@ -26,26 +25,21 @@ Acknowledgments to [Fugoes](https://fugoes.github.io) for this fabulous idea!
 | Basic Algebra | Nathan Jacobson | 上册可能有一些微小笔记，下册全新 | 打印 | 个人更喜欢Hungerfold | 10 |  | 
 | Algebra I: Basic Notions of Algebra | A.I. Kostrikin I.R. Shafarevich | 全新 | 打印 | 被推荐了才打印的但是全无印象了 | 10 |  | 
 | Le Nouveau : Exercises |  | 全新 | 打印 | 法语课标配但是我从没做过练习 | 5 |  | 
-| Probability and Measure Theory | Robert B. Ash | 全新 | 打印 |  | 5 |SnowOnion  | 
-| A Concise Course in Algebraic Topology | J. P. May | 大概前20页把may的一些typo标出来了 | 打印 | 李思老师在讲一些basic category theory 的时候refer了这note的内容，有个蛮厉害的人曾经也蛮喜欢这个note的。问题是他真的很多typo，入门被记号纠结到爆炸 | 10 |SnowOnion  | 
 | 力学 | 舒幼生 | 我觉得我从来没看过 |  | | 10 |SnowOnion  | 
 | 实变函数论 | 徐森林 | 微小笔记 |  | 卢老师数学分析课refer过的 | 14 |  | 
 | 数值分析基础（第二版） | 关冶 | 部分笔记 |  | 黄忠亿老师数值分析书教材 | 15 |  | 
 | GRE 核心词汇考法精析 |  | 不记得了 |  | | 20 |  | 
 | GRE 官方题库 范文精讲 | 新东方 | 二手书 |  | | 20 |  | 
 | 集体智慧编程 | O'reilly | 二手书 |  | | 30 | 还想看看 | 
-| Basic Stochastic Processes |  | Zdzislaw | 影印 | 真的很basic but non-trivial | 10 |SnowOnion  | 
 | 数据库系统概论 学习指导与习题解 | 王珊 | 二手书 |  | | 5 |  | 
 | 数据库系统概念 | SiberschatzKorth | 二手书 | 影印 |  | 30 | 还想看看 |  | 
 | 自动机理论、语言、和计算导论 （英文） | Hopcroft | 二手书 | 影印 | 形式语言与自动机教材 | 20 | 还想看看 (DGF)| 
 | Bayesian Data Analysis | Gelman | 新 | 影印 |  | 50 | 有缘还是想看的 | 
 | Mathematical Logic | Ebbinghaus | 新 | 打印 |  | 5 |  | 
-| Mathematical Logic | Ian Chiswell | 新 | 打印 |  | 5 |SnowOnion  | 
 | 统计学习方法 | 李航  | 新 |  |  | 10 | 还想看看（HW） |  
 | Probability (4ed) | Durrett | 新 | 打印 | 陈金文老师的概率论二和随机过程的参考书 | 10 |  |  
 | An Introduction to Algebraic Topology | Rotman | 有微小笔记 | 影印 | 李思老师拓扑课后半学期基础代数拓扑的参考用书。 | 20 |  | 
 | Introduction to Fourier Analysis on Euclidean Space | Elias M. Stein  Guido Weiss | 新 | 影印 | 20 | |
-| Mathematical Methods of Classical Mechanics | Arnold | 新 | 影印 | 卢文轩老师分析力学教材 | 40 |SnowOnion  | 
 | Complex Analysis | Stein | 新 | 影印 |  | 25 |  | 
 | Real Analysis | Stein | 新 | 影印 |  | 25 |  | 
 | Mathematical Analysis I and II | Zorich | 微小笔记 | 影印 | 卢老师数学分析重要教材！ | 64 |  | 
@@ -67,14 +61,10 @@ Acknowledgments to [Fugoes](https://fugoes.github.io) for this fabulous idea!
 | 法语词汇渐进初级（法） | 上海译文出版社 | 大概还是做了一点 |  | | 10 |  | 
 | GRE 词汇精选（绿） | 俞敏洪 | 二手书 |  | | 10 |  |
 | GRE 词汇精选（红） | 俞敏洪 | 新 |  | | 10 |  | 
-| TOEFL 词组 | 新东方 | 做了个位数页 |  | | 5 |SnowOnion  | 
 | GRE 阅读36套解析——文章结构分析 | 新东方 | 新 |  | | 25 |  | 
 | GRE&GMAT 阅读难句教程 | 新东方 | 新 |  | | 20 |  | 
 | GRE 阅读高分教程指导与精炼 | 新东方 | 新 |  | | 20 |  | 
 | GRE 核心词汇助记与精炼 | 新东方 | 部分笔记（部分单词我搞了一点词源 |  | | 20 |  | 
-| 数学分析讲义（第三章至第十八章） | 卢旭光老师 | 部分笔记 |  | 卢老师课程讲义集合 | 0 |SnowOnion  | 
-| Linear Algebra Done Right | Sheldon Axler | 有笔记 | 打印 |  | 10 |SnowOnion  | 
 | 托福官方指南 | ETS | 比较老了 |  | | 0 |  | 
 | 托福词汇听抄泛读练习 |  | 不知道哪来的 | 打印 |  | 0 |  | 
 | 托福词汇手册下 |  | 不知道哪来的的 | 打印 |  | 0 |  | 
-| 力学 习题与解答 | 舒幼生 | 新 |  | | 5 |SnowOnion  | 
