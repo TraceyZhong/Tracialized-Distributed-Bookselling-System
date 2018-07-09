@@ -20,12 +20,10 @@ Acknowledgments to [Fugoes](https://fugoes.github.io) for this fabulous idea!
 | 抽象代数学 | 姚慕生 | 充满笔记 |  | 朱彬老师抽象代数的教材 | 5 |  | 
 | 数学分析第二册 | 徐森林 | 微笑笔记 |  | 卢老师数分课的辅助教材 | 10 |  | 
 | 数学分析经典习题全解（下册） | 徐森林 |  | | 卢老师数分课的辅助教材 | 10 |  | 
-| 广州话训练教程 | 不重要 | 全新with光盘 |  | | 5 |SnowOnion  |
 | The Art of Speaking |  | 全新with 光盘 |  | | 10 |  | 
 | Basic Algebra | Nathan Jacobson | 上册可能有一些微小笔记，下册全新 | 打印 | 个人更喜欢Hungerfold | 10 |  | 
 | Algebra I: Basic Notions of Algebra | A.I. Kostrikin I.R. Shafarevich | 全新 | 打印 | 被推荐了才打印的但是全无印象了 | 10 |  | 
 | Le Nouveau : Exercises |  | 全新 | 打印 | 法语课标配但是我从没做过练习 | 5 |  | 
-| 力学 | 舒幼生 | 我觉得我从来没看过 |  | | 10 |SnowOnion  | 
 | 实变函数论 | 徐森林 | 微小笔记 |  | 卢老师数学分析课refer过的 | 14 |  | 
 | 数值分析基础（第二版） | 关冶 | 部分笔记 |  | 黄忠亿老师数值分析书教材 | 15 |  | 
 | GRE 核心词汇考法精析 |  | 不记得了 |  | | 20 |  | 
