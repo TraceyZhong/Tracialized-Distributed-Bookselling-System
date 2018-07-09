@@ -53,7 +53,6 @@ Acknowledgments to [Fugoes](https://fugoes.github.io) for this fabulous idea!
 | Introduction to Game Theory | Peter Morris | 微小笔记，郑邵远老师博弈论课时打印的 | 打印 |  | 5 | XDJ | 
 | 应用随机过程 | 林元烈 | 不太记得了 |  | 应用随机过程课程教材 | 15 | DGF | 
 | 测度论讲义 | 严加安 | 新 |  | | 12 |  | 
-| 论语译注 | 杨伯峻 | 充满笔记 |  | | 5 |SnowOnion  | 
 | 法语语法渐进初级（法） | 上海译文出版社 | 大概是做了一点吧 |  | | 10 |  | 
 | 数据结构与算法分析cpp（英） | Mark Alien Weiss | 新 |  | | 30 |  | 
 | 法语词汇渐进初级（法） | 上海译文出版社 | 大概还是做了一点 |  | | 10 |  | 
